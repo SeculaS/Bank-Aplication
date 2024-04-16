@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1713143507 source:c:\users\mg\desktop\proiect de programare\banca\afisare_conturi.c
+	<stdio.h>
+	<string.h>
+	"banca.h"
+
+1713185939 c:\users\mg\desktop\proiect de programare\banca\banca.h
+	<stdbool.h>
+
+1713186308 source:c:\users\mg\desktop\proiect de programare\banca\creare_cont.c
+	<stdio.h>
+	<string.h>
+	"banca.h"
+	<stdlib.h>
+
+1713190471 source:c:\users\mg\desktop\proiect de programare\banca\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"banca.h"
+
+1713143065 source:c:\users\mg\desktop\proiect de programare\banca\adaugare_bani.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banca.h"
+
+1712416928 source:c:\users\mg\desktop\proiect de programare\banca\cont_existent.c
+	<stdio.h>
+	<string.h>
+	"banca.h"
+
+1713143838 source:c:\users\mg\desktop\proiect de programare\banca\extragere_bani.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banca.h"
+
+1713140017 source:c:\users\mg\desktop\proiect de programare\banca\stergere_cont.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"banca.h"
+
